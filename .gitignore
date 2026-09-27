@@ -1,0 +1,16 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Agent & Session Logs
+.playwright-mcp/
+
+# IDE & Environment
+.vscode/
+.env
+*.log
